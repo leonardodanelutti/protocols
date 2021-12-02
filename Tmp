@@ -1,0 +1,8 @@
+import json
+
+def decoder(jsonMessage):
+  dic = json.loads(jsonMessage)
+  dic["timestamp"]
+  
+  
+https://pynative.com/python-convert-json-data-into-custom-python-object/
